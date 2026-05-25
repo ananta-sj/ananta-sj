@@ -28,8 +28,6 @@
 
 - **[ReFlow-Studio](https://github.com/ananta-sj/ReFlow-Studio)** A Python-based project I'm leading to automate video dubbing and manage audio/visual content.
 
-- **The True Lens** An ongoing project exploring creative ways to verify media and check news sources using a Python backend.
-
 - **[modders-heaven](https://github.com/ananta-sj/modders-heaven)** A handy utility born from a quick idea to automatically unzip and install game mods while keeping the original game files safe.
 
 ---

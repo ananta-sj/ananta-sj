@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ananta 👋</h1>
 
-<!--
-**ananta-sj/ananta-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Python Developer | Creative Problem Solver | Tech Enthusiast</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I love turning spontaneous ideas into functional code. I'm a constant brainstormer who enjoys taking the initiative on projects, figuring out how things work under the hood, and finding creative ways to automate the everyday. 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 How I Work
+
+- **Mindset:** Always thinking ahead, generating quick ideas, and building prototypes.
+- **Approach:** I enjoy taking the lead on organizing projects and guiding them from a rough concept to a working utility. 
+- **Goal:** To keep learning, keep building, and find creative solutions to technical challenges.
+
+### 💻 Tech & Tools
+
+- **Language:** Python
+- **Tools & Libraries:** Flask, tinkering with TTS (kokoro-onnx, eSpeak NG) and media tools (Whisper)
+- **Environment:** Windows & Linux (Ubuntu) basics
+
+---
+
+### 🚀 Things I'm Building
+
+- **[ReFlow-Studio](https://github.com/ananta-sj/ReFlow-Studio)** A Python-based project I'm leading to automate video dubbing and manage audio/visual content.
+
+- **The True Lens** An ongoing project exploring creative ways to verify media and check news sources using a Python backend.
+
+- **[modders-heaven](https://github.com/ananta-sj/modders-heaven)** A handy utility born from a quick idea to automatically unzip and install game mods while keeping the original game files safe.
+
+---
+
+<p align="center">
+  <i>Ideas are instant, execution is everything.</i>
+</p>
